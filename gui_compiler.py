@@ -11,7 +11,7 @@ class MySexyVariables:
 
 class TextBoxWindow(Gtk.Window):
     def __init__(self):
-        Gtk.Window.__init__(self, title="TextBox Input")
+        Gtk.Window.__init__(self, title="Pyra Compiler")
         self.set_default_size(400, 400)
 
         self.box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=6)
