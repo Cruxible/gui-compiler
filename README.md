@@ -1,0 +1,2 @@
+# gui-compiler
+This is a adaption of my command line program. It searches for a file in the ~ and child directories and eather compiles it or runs it deapensding on the file extention.
